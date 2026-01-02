@@ -1,4 +1,4 @@
-# RNG Key Generator (Seed'li)
+# RNG Key Generator
 
 Bu proje, dışarıdan verilen bir **seed (tohum)** değeri ile deterministik olarak
 **pseudo-random** sayı dizisi üreten bir generator (PRNG) ve bu diziden
